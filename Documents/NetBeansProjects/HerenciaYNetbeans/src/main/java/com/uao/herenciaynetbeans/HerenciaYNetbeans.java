@@ -1,7 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
 package com.uao.herenciaynetbeans;
 
 /**
@@ -11,6 +10,7 @@ package com.uao.herenciaynetbeans;
 public class HerenciaYNetbeans {
 
     public static void main(String[] args) {
+        System.out.println("Hello World!");
         System.out.println("Hello World!");
     }
 }
