@@ -3,6 +3,8 @@
  */
 package com.uao.herenciaynetbeans;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author LENOVO
@@ -14,7 +16,7 @@ public class HerenciaYNetbeans {
         System.out.println("Hello World!");
         int i = 0;
         if (i == 0) {
-            System.out.println("ahi una cosita breve ps ");
+            JOptionPane.showMessageDialog(null,"ahi una cosita breve con joptionpane");
         }
     }
 }
