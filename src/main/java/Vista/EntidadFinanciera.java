@@ -21,6 +21,7 @@ public class EntidadFinanciera {
         String numeroCuenta = JOptionPane.showInputDialog("Ingrese el número de cuenta:");
         double saldoInicial = 0;
         double tasaInteres = 10;
+        String letra = "l"; 
 
         CuentaAhorros cuenta = new CuentaAhorros(tasaInteres, numeroCuenta, saldoInicial, nombre);
 
