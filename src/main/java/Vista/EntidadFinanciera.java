@@ -39,7 +39,7 @@ public class EntidadFinanciera {
                     3. Solicitar reembolso
                     4. Ver datos del cliente
                     5. Calcular intereses
-                    6. Salir
+                    6. Salir del programa
                     
                     Elija una opción:
                     """));
