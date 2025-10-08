@@ -49,7 +49,7 @@ public class ControladorCuenta {
             JOptionPane.showMessageDialog(null, "Reembolso exitoso.\n"
                     + "Nuevo saldo: $" + cliente.getCuenta().getSaldoCuenta());
         } else {
-            JOptionPane.showMessageDialog(null, "Error: el monto debe ser mayor que cero.");
+            JOptionPane.showMessageDialog(null, "Error: el monto debe ser mayor que cero. c:");
         }
     }
 }
